@@ -7,6 +7,10 @@ Discover the best patios in YYC with real-time weather tracking and curated reco
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4-38B2AC?style=flat-square&logo=tailwind-css)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
+## 📸 Screenshot
+
+![Calgary Patio Finder Screenshot](./public/screenshot.png)
+
 ## ☀️ Features
 
 - **Real-time Weather Integration** - Live Calgary weather with "Patio Weather Score" based on temperature, wind, and precipitation
